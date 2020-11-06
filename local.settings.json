@@ -1,0 +1,10 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "",
+    "FUNCTIONS_WORKER_RUNTIME": "python"
+  },
+  "ConnectionStrings": {
+    "AzureCosmosDBConnectionString": "THIS IS YOUR ACTUAL COSMOS CONNECTION STRING"
+  }
+}
